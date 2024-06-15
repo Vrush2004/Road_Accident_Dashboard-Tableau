@@ -9,3 +9,6 @@ Road Accident Dashboard for year 2021 and 2022 based on the following requiremen
 5. Casualties by Road Type for Year 2022 
 6. Year 2022 Casualtiees by Area/Location and Day/Night
 7. Total Casualties and Total Accidents by Location
+
+
+![Output](https://github.com/Vrush2004/Road_Accident_Dashboard-Tableau/assets/131949619/efa8edf0-f6a4-4e4d-a04c-244d0f1e02dc)
